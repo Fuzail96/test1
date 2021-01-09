@@ -15,4 +15,7 @@ def count():
     print('done')
 
 
+def hello():
+    print("hello")
+
 count()
