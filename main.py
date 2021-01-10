@@ -18,4 +18,10 @@ def count():
 def hello():
     print("hello")
 
+
+def add(x, y):
+    z = x + y
+    return z
+
+
 count()
