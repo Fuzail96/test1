@@ -29,4 +29,9 @@ def sub(x, y):
     return z
 
 
+def multi(x, y):
+    z = x * y
+    return z
+
+
 count()
